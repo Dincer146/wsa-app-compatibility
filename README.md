@@ -351,3 +351,4 @@ wsa://com.android.settings
 | Rocket League Sideswipe | 1.0 (356721) | ❌ | OpenGL ES 3.1 is unsupported ||
 | Real Racing 3 | 10.1.0 | ✅ | Only controller is supported. keyboard doesn't work ||
 | BBC iPlayer | 4.137.0.25403 | ✅ | Sideloaded ||
+| Earn to die 2 | 1.4.37 | ⚠️ | it works but notably freezing |
